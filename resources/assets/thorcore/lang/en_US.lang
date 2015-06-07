@@ -1,0 +1,22 @@
+tile.thorMythicOre.name=Thor Ore
+tile.thorMythicBlock.name=Thor Block
+
+item.thorMythicHelm.name=Thor Helmet
+item.thorMythicChest.name=Thor Chestplate
+item.thorMythicLeggs.name=Thor Leggings
+item.thorMythicBoots.name=Thor Boots
+item.thorMythicAxe.name=Thor Axe
+item.thorMythicPickaxe.name=Thor Pickaxe
+item.thorMythicSpade.name=Thor Spade
+item.thorMythicHoe.name=Thor Hoe
+item.thorMythicPaxade.name=Thor Paxade
+item.thorMythicPaxadoe.name=Thor Paxadoe
+item.thorMythicHammer.name=Thor Hammer
+item.thorMythicSword.name=Thor Sword
+item.thorMythicNugget.name=Thor Nugget
+item.thorMythicDrop.name=Thor Drop
+item.thorMythicShard.name=Thor Shard
+item.thorMythicIngot.name=Thor Ingot
+item.thorMythicThunderCore.name=Thor Thunder Core
+
+itemGroup.thorMythicTab=Thor Mythic Tab
